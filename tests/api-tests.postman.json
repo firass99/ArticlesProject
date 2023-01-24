@@ -3,7 +3,7 @@
   "info": {
     "name": "Conduit API Tests",
     "_postman_id": "dda3e595-02d7-bf12-2a43-3daea0970192",
-    "description": "Collection for testing the Conduit API\n\nhttps://github.com/gothinkster/realworld",
+    "description": "Collection for testing Conduit API\n\nhttps://github.com/gothinkster/realworld",
  edit
        branchfiras 1st commit
             "listen": "test",
